@@ -1,6 +1,7 @@
 ![Huginn](https://raw.github.com/huginn/huginn/master/media/huginn-logo.png "Your agents are standing by.")
 
 -----
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PhilipMathieu/huginn)
 
 ## What is Huginn?
 
